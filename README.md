@@ -5,7 +5,7 @@ Simple CMS with laravel and vue js
 <img src="./pics/db.png" />
 
 <img src="./pics/Screenshot1.png" width="250" height="250" />
-<img src="./pics/Screenshot2.png>
+<img src="./pics/Screenshot2.png" width="250" height="250" />
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
